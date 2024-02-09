@@ -1,0 +1,12 @@
+{
+    "DBConfig": {
+      "Host": "localhost",
+      "Port": 1433,
+      "User": "kursUSER",
+      "Password": "kursPswd",
+      "DBName": "TEST"
+    },
+    "ServerConfig": {
+      "Port": 8088
+    }
+  }
